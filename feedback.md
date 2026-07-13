@@ -20,6 +20,6 @@ cout << "\n\nMenu:\n"        //note \n\n before Menu – automatically creates s
         "1. Encrypt\n"       //not ‘\n’ at the end of the previous line for better readability
         "2. Decrypt\n"
         "3. Quit\n"<<endl;
-```
+``` 
 
 ***
